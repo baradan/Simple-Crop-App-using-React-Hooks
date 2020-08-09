@@ -1,0 +1,19 @@
+  
+  .App {
+    position: absolute;
+    margin-top: 60px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .crop-container {
+    position: absolute;
+    margin-right: 800px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 80px;
+  }
+  
